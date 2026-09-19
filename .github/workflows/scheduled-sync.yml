@@ -22,7 +22,7 @@ permissions:
   contents: read
 
 env:
-  DEFAULT_SYMBOLS: "EURUSD"
+  DEFAULT_SYMBOLS: "ussc2000idxusd"
   HF_DATASET: Esmaeil9ss/Tickdata
 
 jobs:
